@@ -1,5 +1,0 @@
-<<<<<<< HEAD
-test123
-=======
-some more text
->>>>>>> f10289b39d5d12152c56eae75d395ebbd30bbbfc
